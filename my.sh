@@ -1,3 +1,3 @@
 #!/bin/bash
 current_time=$(date +"%T")
-echo "12.53: $current_time"
+echo "03.30: $current_time"
